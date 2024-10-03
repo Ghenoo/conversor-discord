@@ -13,4 +13,4 @@
 **Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para obter mais detalhes.**
 
 # Créditos
-Este projeto foi criado por gheno. Sinta-se à vontade para usar e modificar o código como quiser. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
+Este projeto foi criado por minha pessoa. Sinta-se à vontade para usar e modificar o código como quiser. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
